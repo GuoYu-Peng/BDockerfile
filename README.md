@@ -1,2 +1,2 @@
-# BDocker
-My dockerfile
+# BDockerfile
+Build bioinformatics environments.
