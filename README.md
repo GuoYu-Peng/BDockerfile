@@ -1,2 +1,2 @@
 # BDockerfile
-Build bioinformatics environments.
+Bioinformatics environments
